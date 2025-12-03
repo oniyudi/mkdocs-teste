@@ -3,5 +3,18 @@ site_name: Terra em Bytes - Teste
 theme:
   name: material
   palette:
-    primary: indigo
-    accent: light blue
+    # configurando o modo claro (Default)
+    - scheme: default
+      primary: indigo
+      accent: light blue
+      toggle:
+        icon: material/weather-sunny
+        name: Mudar para modo escuro
+
+    # configurando o modo escuro (Slate)
+    - scheme: Slate
+      primary: indigo
+      accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Mudar para modo claro
