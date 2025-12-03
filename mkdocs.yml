@@ -1,4 +1,5 @@
 site_name: Terra em Bytes - Teste
+site_url: https://oniyudi.github.io/mkdocs-teste/
 
 theme:
   name: material
