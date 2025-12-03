@@ -13,7 +13,7 @@ theme:
         name: Mudar para modo escuro
 
     # configurando o modo escuro (Slate)
-    - scheme: Slate
+    - scheme: slate
       primary: indigo
       accent: light blue
       toggle:
